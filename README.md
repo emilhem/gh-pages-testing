@@ -2,6 +2,3 @@
 
 # Author
 Emil Hemdal (@emilhem)
-
-# Licence
-PUBLIC DOMAIN
